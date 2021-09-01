@@ -9,5 +9,8 @@ Scripts for converting seismic file formats to .Sac and other scripts
 3. extract_event_from_sac.sh
   This script is used to cut sac files based the catlogue.
 4. CatlogCHst.sh
-  This script is used to refomat the catlogue file downloaded from https://earthquake.usgs.gov/earthquakes/search/
-5. 
+  This script is used to reformat the catlogue file downloaded from https://earthquake.usgs.gov/earthquakes/search/
+5. raw2ref.sh
+  This script is used to convert raw date from RT130 to mseed.
+6. Q330_2mseed.sh
+  This script is used to organise the mseed files from Q330.
