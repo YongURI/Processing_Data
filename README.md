@@ -12,5 +12,10 @@ Scripts for converting seismic file formats to .Sac and other scripts
   This script is used to reformat the catlogue file downloaded from https://earthquake.usgs.gov/earthquakes/search/
 5. raw2ref.sh
   This script is used to convert raw date from RT130 to mseed.
-6. Q330_2mseed.sh
+6. extract_ref.sh
+  This script is used to cut .Sac files from the organised mseed files by raw2ref.sh.
+7. Q330_2mseed.sh
   This script is used to organise the mseed files from Q330.
+8. extract_Q330mseed.sh
+  This script is used to cut .Sac files from the organised mseed files by Q330_2mseed.sh.
+ 
