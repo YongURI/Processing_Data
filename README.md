@@ -6,3 +6,8 @@ Scripts for converting seismic file formats to .Sac and other scripts
 2. convert2displs.sh
   This script is used to remove instrument responses from .Sac files.
   The response file can be writen by package named PDCC.
+3. extract_event_from_sac.sh
+  This script is used to cut sac files based the catlogue.
+4. CatlogCHst.sh
+  This script is used to refomat the catlogue file downloaded from https://earthquake.usgs.gov/earthquakes/search/
+5. 
