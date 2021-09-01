@@ -16,6 +16,8 @@ Scripts for converting seismic file formats to .Sac and other scripts
   This script is used to cut .Sac files from the organised mseed files by raw2ref.sh.
 7. Q330_2mseed.sh
   This script is used to organise the mseed files from Q330.
-8. extract_Q330mseed.sh
+8. extract_Q330.sh
   This script is used to cut .Sac files from the organised mseed files by Q330_2mseed.sh.
+9. extract_nano.sh
+  This script is used t cut .Sac files from nano compact sensor.
  
